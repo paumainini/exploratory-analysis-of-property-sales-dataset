@@ -73,7 +73,16 @@ This project involves an exploratory analysis and cleaning of a dataset containi
 
 ## Results
 
-The cleaning process resulted in a significantly more usable dataset with a substantial reduction in missing values, making it ready for further analysis and modeling.
+The cleaning process resulted in a significantly more usable dataset with a substantial reduction in missing values, making it ready for further analysis and modeling. Data set final:
+- 0 campos nulos
+- 75817 filas  (-37.5%) 
+- 8 columnas (-14 campos)
+
+## Final Dataset
+
+   -0 null fields
+   -75,817 rows (-37.5%)
+   -8 columns (-14 fields
 
 ## Repository Structure
 
@@ -163,7 +172,12 @@ Este proyecto implica un análisis exploratorio y limpieza de un dataset que con
 
 ## Resultados
 
-El proceso de limpieza resultó en un dataset significativamente más utilizable con una reducción sustancial en valores faltantes, preparándolo para análisis y modelado futuros.
+El proceso de limpieza resultó en un dataset significativamente más utilizable con una reducción sustancial en valores faltantes, preparándolo para análisis y modelado futuros. 
+
+## Dataset final
+   -0 campos nulos
+   -75817 filas (-37.5%)
+   -8 columnas (-14 campos
 
 ## Estructura del Repositorio
 
